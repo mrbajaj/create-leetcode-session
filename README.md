@@ -1,4 +1,4 @@
-# Guide to Using the cURL Command for LeetCode Creating Leetcode Session
+# Guide for Creating Leetcode Session using simple Curl command
 
 ## Overview
 
